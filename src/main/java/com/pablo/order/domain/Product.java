@@ -1,4 +1,4 @@
-package com.pablo.order.model;
+package com.pablo.order.domain;
 
 public class Product {
     private Long id;
